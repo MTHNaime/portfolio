@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.159c6786.css",
-    "main.js": "/static/js/main.fb376a5f.js",
+    "main.js": "/static/js/main.7cb132de.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/pic1.jpg": "/static/media/pic1.f6ae2cc1b0940dd0a66e.jpg",
     "static/media/pic2.jpg": "/static/media/pic2.180f46f312ca242eaf94.jpg",
     "static/media/netflix.jpg": "/static/media/netflix.5ebfe286e120c4f03d22.jpg",
-    "static/media/Naime_CV_DA.pdf": "/static/media/Naime_CV_DA.89c05e336f8712fe21fb.pdf",
+    "static/media/Naime_CV_DA.pdf": "/static/media/Naime_CV_DA.2462e82733bd789cbb69.pdf",
     "static/media/abtest.jpg": "/static/media/abtest.283671562618e08d6255.jpg",
     "static/media/nlp.PNG": "/static/media/nlp.40737e42045e57d70cfd.PNG",
     "index.html": "/index.html",
     "main.159c6786.css.map": "/static/css/main.159c6786.css.map",
-    "main.fb376a5f.js.map": "/static/js/main.fb376a5f.js.map",
+    "main.7cb132de.js.map": "/static/js/main.7cb132de.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.159c6786.css",
-    "static/js/main.fb376a5f.js"
+    "static/js/main.7cb132de.js"
   ]
 }
